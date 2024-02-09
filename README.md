@@ -9,5 +9,5 @@ Para abrir basta clicar com o botão direto, selecionar abrir com, e escolher o 
 
 Versão PHP:
 Recomendado utilizar um pacote como XAMPP.
-Realize a extração para a pasta htdocs do pacote, inicialize o Apache, e acessar localhost/login-php/ no navegador de sua preferência.
+Realize a extração para a pasta htdocs do pacote, inicialize o Apache, e acesse localhost/login-php/ no navegador de sua preferência.
 *** Versão PHP disponibilizada apenas para facilitar a vizualização do código, a linguagem não foi utilizada de forma significativa ***
